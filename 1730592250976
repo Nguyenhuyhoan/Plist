@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://dl.dropboxusercontent.com/scl/fi/tz6ba4xsf7vlngrf1fix7/GBox_v3.6.7.ipa?rlkey=ybtlsiwskvfl4bc7np2p4k00y&e=1&st=ja2yrno5&amp;dl=1</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://raw.githubusercontent.com/Nguyenhuyhoan/Config/main/Esign.jpg</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>Huy</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>Ggh</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
