@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://www.mediafire.com/file/obsyz8rs8u5l765/Nguy%25E1%25BB%2585n_D%25C6%25B0%25C6%25A1ng.mobileconfig/file</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://raw.githubusercontent.com/Nguyenhuyhoan/Config/main/Esign.jpg</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>Ccf</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>Cvd</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
