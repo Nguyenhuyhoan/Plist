@@ -1,4 +1,4 @@
-name: PassWifi
+name: PassWifi64
 on:
   workflow_dispatch:
     inputs:
