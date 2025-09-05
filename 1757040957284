@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://s3cdn.dbservices.to/ipas/aace709b6a373634e0fe3635f04112071f1fa3b6.ipa?verify=1757040693-YMP%2BwBwfnTJ6gv0AF7fwOX9954oICx%2FddJFNYQsLMF4%3D</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://ipaa.pages.dev/icon.png</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>P</string>
+<key>bundle-version</key>
+<string>1.24.1</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>ISTB</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
