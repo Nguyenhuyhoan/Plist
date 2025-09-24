@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://dl.dropboxusercontent.com/scl/fi/yhzpp9youbzlyff1oc712/Esign_GLOBAL-TAKEOFF-INC.ipa?rlkey=mumejyvtr8x46vx5l1pi3nibm&amp;st=4djke09r&amp;dl=1</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://ipaa.pages.dev/icon.png</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>p3.xyz.yyyue.esign</string>
+<key>bundle-version</key>
+<string>5.0.2</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>ESign</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
