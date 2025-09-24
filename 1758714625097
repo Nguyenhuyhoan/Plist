@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://dl.dropboxusercontent.com/scl/fi/n9nmx3o11ph0k43c90bt7/Esign_BMW-Brilliance-Automotive-Ltd..ipa?rlkey=tcwk7clj9pa6a84pxnkgos2we&amp;st=p2xlxqtl&amp;dl=1</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://ipaa.pages.dev/icon.png</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>p3.xyz.yyyue.esign</string>
+<key>bundle-version</key>
+<string>5.0.2</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>ESign</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
