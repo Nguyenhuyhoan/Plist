@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://dl.dropboxusercontent.com/scl/fi/9052ynbofqnoi5bzzlruf/YouTube-Pro_20.40.4_1762156828.ipa?rlkey=85b03fs7xi1n9ui8j4g44cceo&amp;st=9pii7ln5&amp;dl=1</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://ipaa.pages.dev/icon.png</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.google.ios.youtube</string>
+<key>bundle-version</key>
+<string>20.40.4</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>YouTube Pro</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
