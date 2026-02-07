@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://www.mediafire.com/file/5day1q0j52a1tx2/LQ%25E2%2580%25A2TipTip%25F0%259F%2590%25A7%25F0%259F%2590%25A7%25F0%259F%2590%25A7_Fix.ipa/file?dkey=fuh09m9mc04&r=1200#</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://ipaa.pages.dev/icon.png</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.garena.game.kgvn</string>
+<key>bundle-version</key>
+<string>12.3.4</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>Liên Quân </string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
